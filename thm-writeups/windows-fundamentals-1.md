@@ -20,3 +20,4 @@ Step-by-step with your thought process (NOT just answers).
 - Windows is the dominant operating system in both home use and corporate networks, making it targeted by hackers & malware writers.
 - Malware writers have used ADS, which is a feature in NFTS to contain more than one stream of data, to hide data.
 - Deleting any folders or files within System32 can affect the entire Windows OS
+- Using UAC (User Account Control) could help prevent privilege-escalation and in consequence, having malware running in the user's account.
